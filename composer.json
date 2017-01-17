@@ -1,0 +1,22 @@
+{
+    "name": "XLog",
+    "description": "日志格式化",
+    "version": "master",
+    "authors": [
+        {
+            "name": "颜回",
+            "email": "yanhui@51huxin.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "XLog\\": "src/XLog"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
