@@ -1,7 +1,7 @@
 {
-    "name": "XLog",
+    "name": "yanhui/xlog",
     "description": "日志格式化",
-    "version": "master",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "颜回",
